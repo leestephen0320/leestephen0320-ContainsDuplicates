@@ -14,7 +14,7 @@ public class ContainsDuplicates {
                 return true;
             }
             numsSet.add(nums[i]);
-        }  
+        }    
         return false;
     }
     }
